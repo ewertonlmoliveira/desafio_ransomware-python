@@ -1,0 +1,5 @@
+Este e um arquivo perfeitamente legivel e descriptografado
+
+Projeto para criacao de um ransomware
+
+Curso de CyberSecurity DIO
